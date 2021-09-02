@@ -1,4 +1,4 @@
-# Coding-Challenges
+# Welcome to my problem solving repository
 
 Here i add the solutions i write for the problem solving questions.
 
